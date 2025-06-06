@@ -2,7 +2,7 @@
 
 Quorum sensing regulates cooperative behaviors in bacteria through the accumulation and detection of signaling molecules. This process plays a crucial role in various biological functions, including biofilm formation, antibiotic production, regulation of virulence factors, and immune modulation.Within this framework, quorum sensing peptides (QSPs) serve as essential signaling molecules that mediate bacterial communication both within and between species, making them critical to understanding quorum sensing and its regulatory functions. Here, we propose IQSPred-PLM, a robust and interpretable deep learning model for accurate QSP prediction.
 
-![Uploading 新流程图.jpg…]()
+![新流程图](https://github.com/user-attachments/assets/f41ff016-9dc2-4af3-86b2-c01cfaa07b74)
 
 
 IQSPred-PLM relies on a large-scale pre-trained protein language models: ESM-2. For detailed guidance on generating protein embedding representations, please refer to the official documentation available at the following websites:
